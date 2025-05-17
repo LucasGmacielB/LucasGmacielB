@@ -75,7 +75,7 @@ Olá, me chamo Lucas, tenho 19 anos e sou natural de Pernanbuco. Atualmente, est
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="155" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasGmacielB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -83,7 +83,7 @@ Olá, me chamo Lucas, tenho 19 anos e sou natural de Pernanbuco. Atualmente, est
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="155" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgmacielb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
