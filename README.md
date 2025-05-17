@@ -2,7 +2,8 @@
 
 **`Dev em formação`**
 
-Olá, me chamo Lucas, tenho 19 anos e sou natural de Pernanbuco. Atualmente, estou curanso Sistemas para internet na UNICAP. Sou fanático por tecnologia e estou sempre buscando aprender novas ferramentas para aprimorar meus conhecimentos.
+Olá, me chamo Lucas, tenho 19 anos e sou natural de Pernanbuco. Atualmente, estou cursando Sistemas para internet na UNICAP. Sou fanático por tecnologia e estou sempre buscando aprender novas ferramentas para aprimorar meus conhecimentos.
+
 ##
 
 ### 🤖 Linguagens e Tecnologias
