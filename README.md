@@ -66,6 +66,14 @@ Olá, me chamo Lucas, tenho 19 anos e sou natural de Pernanbuco. Atualmente, est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="androidStudio" 
+    title="androidStudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
 
 <br>
 <br>
